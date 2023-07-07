@@ -1,0 +1,162 @@
+# depslib dependency file v1.0
+1664835022 source:f:\route\project\main.cpp
+	<iostream>
+	<person.h>
+	<employee.h>
+
+1664770050 f:\route\project\include\person.h
+	<iostream>
+	<Validation.h>
+
+1664770444 f:\route\project\include\employee.h
+	<iostream>
+	<person.h>
+	<Validation.h>
+
+1664834898 f:\route\project\include\validation.h
+	<iostream>
+	<string>
+	<locale>
+	<ctype.h>
+
+1665082787 source:d:\route\project\main.cpp
+	<iostream>
+	<vector>
+	<person.h>
+	<employee.h>
+	<FileManager.h>
+	<fstream>
+
+1664989208 d:\route\project\include\person.h
+	<iostream>
+	<Validation.h>
+
+1664988325 d:\route\project\include\validation.h
+	<iostream>
+	<string>
+	<locale>
+	<ctype.h>
+
+1665091723 d:\route\project\include\employee.h
+	<iostream>
+	<person.h>
+	<Validation.h>
+	<Client.h>
+
+1665092007 d:\route\project\include\filemanager.h
+	<iostream>
+	<fstream>
+	<string>
+	<DataSourceInterface.h>
+	<Client.h>
+	<employee.h>
+	<Admin.h>
+
+1664974945 d:\route\project\include\client.h
+	<iostream>
+	<person.h>
+	<Validation.h>
+
+1665092007 d:\route\project\include\admin.h
+	<iostream>
+	<employee.h>
+
+1665092007 d:\route\project\include\datasourceinterface.h
+	<iostream>
+	<Admin.h>
+	<vector>
+
+1666541395 source:d:\route\project old\main.cpp
+	<iostream>
+	<vector>
+	<person.h>
+	<Client.h>
+	<Employee.h>
+	<FilesHelper.h>
+	<FileManager.h>
+	<Screens.h>
+	<fstream>
+
+1665507885 d:\route\project old\include\person.h
+	<iostream>
+	"Validation.h"
+
+1665240377 d:\route\project old\include\validation.h
+	<iostream>
+	<string>
+	<locale>
+	<ctype.h>
+
+1666647651 d:\route\project old\include\employee.h
+	<iostream>
+	<vector>
+	"person.h"
+	"Validation.h"
+	"Client.h"
+	"searchIdException.h"
+
+1666734334 d:\route\project old\include\filemanager.h
+	<iostream>
+	<fstream>
+	<string>
+	<DataSourceInterface.h>
+	<Client.h>
+	<Employee.h>
+	<Admin.h>
+	<parser.h>
+	<FilesHelper.h>
+
+1665182904 d:\route\project old\include\datasourceinterface.h
+	<iostream>
+	<Admin.h>
+	<vector>
+	<Employee.h>
+	<Client.h>
+
+1666733313 d:\route\project old\include\admin.h
+	<iostream>
+	"Employee.h"
+	"searchIdException.h"
+
+1666643318 d:\route\project old\include\client.h
+	<iostream>
+	<vector>
+	"person.h"
+	"Validation.h"
+
+1666205876 d:\route\project old\include\parser.h
+	<iostream>
+	"Admin.h"
+	"Client.h"
+
+1666647114 d:\route\project old\include\fileshelper.h
+	<iostream>
+	<fstream>
+	"Client.h"
+	"Employee.h"
+	"parser.h"
+
+1665608100 d:\route\project old\include\searchidexception.h
+
+1667149216 d:\route\project old\include\screens.h
+	"ClientManger.h"
+	"FileManager.h"
+	"EmployeeManager.h"
+	"AdminManager.h"
+
+1666731682 d:\route\project old\include\clientmanger.h
+	<iostream>
+	"Client.h"
+	"Employee.h"
+	"person.h"
+
+1666905970 d:\route\project old\include\employeemanager.h
+	"person.h"
+	"Admin.h"
+
+1666906118 d:\route\project old\include\adminmanager.h
+	<iostream>
+	<stdlib.h>
+	<EmployeeManager.h>
+	"Admin.h"
+
